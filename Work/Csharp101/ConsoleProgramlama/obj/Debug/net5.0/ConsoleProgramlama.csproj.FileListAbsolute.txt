@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\bin\Debug\net5.0\ref\ConsoleProgramlama.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\obj\Debug\net5.0\ref\ConsoleProgramlama.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.genruntimeconfig.cache
