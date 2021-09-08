@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\bin\Debug\net5.0\Hata-Yonetimi.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\bin\Debug\net5.0\Hata-Yonetimi.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\bin\Debug\net5.0\Hata-Yonetimi.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\bin\Debug\net5.0\Hata-Yonetimi.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\bin\Debug\net5.0\Hata-Yonetimi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\bin\Debug\net5.0\ref\Hata-Yonetimi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\bin\Debug\net5.0\Hata-Yonetimi.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\obj\Debug\net5.0\Hata-Yonetimi.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\obj\Debug\net5.0\Hata-Yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\obj\Debug\net5.0\Hata-Yonetimi.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\obj\Debug\net5.0\Hata-Yonetimi.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\obj\Debug\net5.0\Hata-Yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\obj\Debug\net5.0\Hata-Yonetimi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\obj\Debug\net5.0\ref\Hata-Yonetimi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\obj\Debug\net5.0\Hata-Yonetimi.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Hata-Yonetimi\obj\Debug\net5.0\Hata-Yonetimi.genruntimeconfig.cache
