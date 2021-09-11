@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\bin\Debug\net5.0\ref\Donguler-While-Foreach.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\bin\Debug\net5.0\Donguler-While-Foreach.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\obj\Debug\net5.0\ref\Donguler-While-Foreach.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Donguler-While-Foreach\obj\Debug\net5.0\Donguler-While-Foreach.genruntimeconfig.cache
