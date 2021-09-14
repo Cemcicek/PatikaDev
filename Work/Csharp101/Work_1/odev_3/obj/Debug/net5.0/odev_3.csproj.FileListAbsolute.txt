@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\bin\Debug\net5.0\odev_3.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\bin\Debug\net5.0\odev_3.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\bin\Debug\net5.0\odev_3.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\bin\Debug\net5.0\odev_3.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\bin\Debug\net5.0\odev_3.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\bin\Debug\net5.0\ref\odev_3.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\bin\Debug\net5.0\odev_3.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\obj\Debug\net5.0\odev_3.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\obj\Debug\net5.0\odev_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\obj\Debug\net5.0\odev_3.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\obj\Debug\net5.0\odev_3.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\obj\Debug\net5.0\odev_3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\obj\Debug\net5.0\odev_3.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\obj\Debug\net5.0\ref\odev_3.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\obj\Debug\net5.0\odev_3.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Work_1\odev_3\obj\Debug\net5.0\odev_3.genruntimeconfig.cache
