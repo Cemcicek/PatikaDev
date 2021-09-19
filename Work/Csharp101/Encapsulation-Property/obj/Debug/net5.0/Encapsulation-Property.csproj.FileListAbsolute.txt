@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\bin\Debug\net5.0\Encapsulation-Property.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\bin\Debug\net5.0\Encapsulation-Property.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\bin\Debug\net5.0\Encapsulation-Property.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\bin\Debug\net5.0\Encapsulation-Property.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\bin\Debug\net5.0\Encapsulation-Property.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\bin\Debug\net5.0\ref\Encapsulation-Property.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\bin\Debug\net5.0\Encapsulation-Property.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\obj\Debug\net5.0\Encapsulation-Property.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\obj\Debug\net5.0\Encapsulation-Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\obj\Debug\net5.0\Encapsulation-Property.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\obj\Debug\net5.0\Encapsulation-Property.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\obj\Debug\net5.0\Encapsulation-Property.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\obj\Debug\net5.0\Encapsulation-Property.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\obj\Debug\net5.0\ref\Encapsulation-Property.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\obj\Debug\net5.0\Encapsulation-Property.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Encapsulation-Property\obj\Debug\net5.0\Encapsulation-Property.genruntimeconfig.cache
