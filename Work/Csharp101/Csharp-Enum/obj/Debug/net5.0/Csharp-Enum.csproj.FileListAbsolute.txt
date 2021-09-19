@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\bin\Debug\net5.0\Csharp-Enum.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\bin\Debug\net5.0\Csharp-Enum.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\bin\Debug\net5.0\Csharp-Enum.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\bin\Debug\net5.0\Csharp-Enum.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\bin\Debug\net5.0\Csharp-Enum.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\bin\Debug\net5.0\ref\Csharp-Enum.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\bin\Debug\net5.0\Csharp-Enum.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\obj\Debug\net5.0\Csharp-Enum.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\obj\Debug\net5.0\Csharp-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\obj\Debug\net5.0\Csharp-Enum.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\obj\Debug\net5.0\Csharp-Enum.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\obj\Debug\net5.0\Csharp-Enum.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\obj\Debug\net5.0\Csharp-Enum.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\obj\Debug\net5.0\ref\Csharp-Enum.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\obj\Debug\net5.0\Csharp-Enum.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Csharp-Enum\obj\Debug\net5.0\Csharp-Enum.genruntimeconfig.cache
