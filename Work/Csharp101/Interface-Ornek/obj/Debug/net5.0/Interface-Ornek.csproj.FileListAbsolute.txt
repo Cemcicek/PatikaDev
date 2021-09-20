@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\bin\Debug\net5.0\Interface-Ornek.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\bin\Debug\net5.0\Interface-Ornek.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\bin\Debug\net5.0\Interface-Ornek.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\bin\Debug\net5.0\Interface-Ornek.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\bin\Debug\net5.0\Interface-Ornek.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\bin\Debug\net5.0\ref\Interface-Ornek.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\bin\Debug\net5.0\Interface-Ornek.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\obj\Debug\net5.0\Interface-Ornek.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\obj\Debug\net5.0\Interface-Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\obj\Debug\net5.0\Interface-Ornek.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\obj\Debug\net5.0\Interface-Ornek.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\obj\Debug\net5.0\Interface-Ornek.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\obj\Debug\net5.0\Interface-Ornek.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\obj\Debug\net5.0\ref\Interface-Ornek.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\obj\Debug\net5.0\Interface-Ornek.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Interface-Ornek\obj\Debug\net5.0\Interface-Ornek.genruntimeconfig.cache
