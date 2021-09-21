@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\bin\Debug\net5.0\Abstract-Sinif.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\bin\Debug\net5.0\Abstract-Sinif.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\bin\Debug\net5.0\Abstract-Sinif.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\bin\Debug\net5.0\Abstract-Sinif.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\bin\Debug\net5.0\Abstract-Sinif.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\bin\Debug\net5.0\ref\Abstract-Sinif.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\bin\Debug\net5.0\Abstract-Sinif.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\obj\Debug\net5.0\Abstract-Sinif.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\obj\Debug\net5.0\Abstract-Sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\obj\Debug\net5.0\Abstract-Sinif.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\obj\Debug\net5.0\Abstract-Sinif.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\obj\Debug\net5.0\Abstract-Sinif.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\obj\Debug\net5.0\Abstract-Sinif.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\obj\Debug\net5.0\ref\Abstract-Sinif.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\obj\Debug\net5.0\Abstract-Sinif.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\Abstract-Sinif\obj\Debug\net5.0\Abstract-Sinif.genruntimeconfig.cache
