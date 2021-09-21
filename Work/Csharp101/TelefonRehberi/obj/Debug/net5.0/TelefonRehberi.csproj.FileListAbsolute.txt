@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\bin\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\obj\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.genruntimeconfig.cache
