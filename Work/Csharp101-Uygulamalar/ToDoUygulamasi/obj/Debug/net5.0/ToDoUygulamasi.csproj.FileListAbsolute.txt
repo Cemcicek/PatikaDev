@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\bin\Debug\net5.0\ToDoUygulamasi.exe
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\bin\Debug\net5.0\ToDoUygulamasi.deps.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\bin\Debug\net5.0\ToDoUygulamasi.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\bin\Debug\net5.0\ToDoUygulamasi.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\bin\Debug\net5.0\ToDoUygulamasi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\bin\Debug\net5.0\ref\ToDoUygulamasi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\bin\Debug\net5.0\ToDoUygulamasi.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\obj\Debug\net5.0\ref\ToDoUygulamasi.dll
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.pdb
+C:\Users\PC\Documents\GitHub\PatikaDev\Work\Csharp101\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.genruntimeconfig.cache
