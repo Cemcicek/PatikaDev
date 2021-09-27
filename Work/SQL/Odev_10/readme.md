@@ -1,4 +1,4 @@
-## Ödev 10
+## Ödev10
 
 ### Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
