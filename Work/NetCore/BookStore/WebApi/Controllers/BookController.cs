@@ -4,17 +4,17 @@ using System.Linq;
 using AutoMapper;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
-using WebApi.BookOperriations.CreateBook;
-using WebApi.BookOperriations.DeleteBook;
-using WebApi.BookOperriations.GetBookDetail;
-using WebApi.BookOperriations.GetBooks;
-using WebApi.BookOperriations.UpdateBook;
 using WebApi.DBOperations;
-using static WebApi.BookOperriations.CreateBook.CreateBookCommand;
-using static WebApi.BookOperriations.UpdateBook.UpdateBookCommand;
 using FluentValidation;
+using WebApi.Application.Queries.BookOperriations.GetBooks;
+using WebApi.Application.Queries.BookOperriations.GetBookDetail;
+using static WebApi.Application.Commands.BookOperriations.CreateBook.CreateBookCommand;
+using WebApi.Application.Commands.BookOperriations.CreateBook;
+using static WebApi.Application.Commands.BookOperriations.UpdateBook.UpdateBookCommand;
+using WebApi.Application.Commands.BookOperriations.UpdateBook;
+using WebApi.Application.Commands.BookOperriations.DeleteBook;
 
-namespace WebApi.AddControllers
+namespace WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]s")]
@@ -59,13 +59,6 @@ namespace WebApi.AddControllers
             CreateBookCommandValidator validator = new CreateBookCommandValidator();
             validator.ValidateAndThrow(command);
             command.Handle();
-
-            // }
-            // catch (Exception ex)
-            // {
-                
-            //     return BadRequest(ex.Message);
-            // }
             return Ok();
         }
 

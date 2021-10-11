@@ -2,6 +2,7 @@ using System;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using WebApi.Entities;
 
 namespace  WebApi.DBOperations
 {
@@ -16,22 +17,33 @@ namespace  WebApi.DBOperations
                     return;
                 }
 
+                contex.Genres.AddRange(
+                    new Genre{
+                        Name = "Personel Growth"
+                    },
+                    new Genre{
+                        Name = "Science Fiction"
+                    },
+                    new Genre{
+                        Name = "Romance"
+                    }
+                );
+
                 contex.Books.AddRange(
                 new Book{
-                    //Id = 1,
                     Title = "Lean Startup",
                     GenreId = 1,
                     PageCount = 200,
                     PublishDate = new DateTime(2021,09,09)
                 },
                 new Book{
-                    //Id = 2,
                     Title = "Hearland",
                     GenreId = 2,
                     PageCount = 250,
                     PublishDate = new DateTime(2020,09,09)
                 }
                 );
+                
                 contex.SaveChanges();
             }
         }
