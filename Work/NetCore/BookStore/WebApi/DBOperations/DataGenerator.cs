@@ -16,6 +16,21 @@ namespace  WebApi.DBOperations
                 {
                     return;
                 }
+                contex.Authors.AddRange
+                (
+                    new Author
+                    {
+                        Name = "Cem",
+                        Surname = "Çiçek",
+                        BirthDate = new System.DateTime(2000, 10, 12)
+                    },
+                    new Author
+                    {
+                        Name = "Test",
+                        Surname = "Deneme",
+                        BirthDate = new DateTime(2000, 7, 3)
+                    }
+                );
 
                 contex.Genres.AddRange(
                     new Genre{
@@ -34,13 +49,15 @@ namespace  WebApi.DBOperations
                     Title = "Lean Startup",
                     GenreId = 1,
                     PageCount = 200,
-                    PublishDate = new DateTime(2021,09,09)
+                    PublishDate = new DateTime(2021,09,09),
+                    AuthorId = 1
                 },
                 new Book{
                     Title = "Hearland",
                     GenreId = 2,
                     PageCount = 250,
-                    PublishDate = new DateTime(2020,09,09)
+                    PublishDate = new DateTime(2020,09,09),
+                    AuthorId = 2
                 }
                 );
                 

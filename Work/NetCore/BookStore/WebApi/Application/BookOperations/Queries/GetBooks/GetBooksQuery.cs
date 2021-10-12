@@ -28,7 +28,9 @@ namespace WebApi.Application.Queries.BookOperriations.GetBooks
     {
         public string Title { get; set; }
         public int PageCount { get; set; }
-        public string PublishDate { get; set; }
         public string Genre { get; set; }
+        public string AuthorName { get; set; }
+        public string AuthorSurname { get; set; }
+        public string PublishDate { get; set; }
     }
 }
