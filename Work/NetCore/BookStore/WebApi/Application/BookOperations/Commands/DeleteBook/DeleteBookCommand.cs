@@ -15,11 +15,10 @@ namespace WebApi.Application.Commands.BookOperriations.DeleteBook
         }
         public void Handle()
         {
-            var book = _dbContex.Books.SingleOrDefault(x => x.Id == BookId);
+            var book = _dbContex.Books.Where(p => p.Id == BookId).FirstOrDefault();
             if (book is null)
-            {
-                throw new InvalidOperationException("Silinecek Kitap Bulunamadı!");
-            }
+                throw new InvalidOperationException("Kitap bulunamadı");
+
             _dbContex.Books.Remove(book);
             _dbContex.SaveChanges();
             
