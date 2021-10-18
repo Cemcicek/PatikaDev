@@ -5,6 +5,6 @@
 3- Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir. <br>
 4- Her çalışan bir ofiste çalışır. <br>
 
-Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz. <br>
+Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz. 
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
