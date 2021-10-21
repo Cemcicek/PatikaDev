@@ -16,6 +16,9 @@ using Microsoft.OpenApi.Models;
 using WebApi.DBOperations;
 using WebApi.Middlewares;
 using WebApi.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace WebApi
 {
@@ -31,7 +34,18 @@ namespace WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt => {
+                opt.TokenValidationParameters = new TokenValidationParameters{
+                    ValidateAudience = true,
+                    ValidateIssuer   = true,
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true,
+                    ValidIssuer      = Configuration["Token:Issuer"],
+                    ValidAudience    = Configuration["Token:Audience"],
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Token:SecurityKey"])),
+                    ClockSkew = TimeSpan.Zero
+                };
+            });
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -54,6 +68,8 @@ namespace WebApi
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebApi v1"));
             }
+
+            app.UseAuthentication();
 
             app.UseHttpsRedirection();
 
