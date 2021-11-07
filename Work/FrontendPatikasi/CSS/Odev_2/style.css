@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+#input-text{
+    height: 18px;
+    width: 300px;
+}
+section{
+    background-color: #EEEEEE;
+}
+#table{
+    text-align: center;
+    display: inline-block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.group1 {
+    width: 10%;
+    padding: 2px;
+    background: #7EE5DA;
+}
