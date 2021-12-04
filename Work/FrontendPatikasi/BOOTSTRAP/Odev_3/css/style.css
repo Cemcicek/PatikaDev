@@ -1,3 +1,7 @@
+.body {
+  background-color: #f3f2ef;
+}
+
 .navbarbg {
   height: 55px;
   background-color: white;
@@ -13,13 +17,16 @@ input.searche {
 input.searche::placeholder {
   font-size: 14px;
   color: gray;
-  background-image: url(/bootstraplinkedinclone/assets/search-solid.svg);
+  background-image: url(/BOOTSTRAP/linkedin-clone/assets/search-solid.svg);
   background-repeat: no-repeat;
   background-size: 7%;
+  background-position: left;
+  padding-left: 20px;
+  opacity: 0.7;
 }
 
-.body {
-  background-color: #f3f2ef;
+.form-inline {
+  padding-right: 200px;
 }
 
 .menutext {
@@ -53,6 +60,7 @@ i {
   color: gray;
   margin-top: 8px;
 }
+
 i:hover {
   color: black;
 }
@@ -65,9 +73,10 @@ input.content::placeholder {
   font-weight: bolder;
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(/bootstraplinkedinclone/assets/edit-regular.svg);
+  background-image: url(/BOOTSTRAP/linkedin-clone/assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
+  padding-left: 30px;
 }
 
 div.card {
@@ -104,13 +113,10 @@ li {
 .link {
   font-size: 12px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   color: #5f5f5f;
 }
 
-button.ref {
-  color: white;
-}
 
 button.ref:hover {
   color: #5f5f5f;
