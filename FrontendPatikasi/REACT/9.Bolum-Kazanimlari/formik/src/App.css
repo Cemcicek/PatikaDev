@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.errorEmail{
+  color: red;
+  text-align: center;
+  padding-left: 30px;
+}
