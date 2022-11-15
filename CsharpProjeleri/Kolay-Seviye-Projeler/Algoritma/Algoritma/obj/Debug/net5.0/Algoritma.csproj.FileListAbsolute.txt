@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Algoritma\Algoritma\bin\Debug\net5.0\Algoritma.exe
+C:\Users\PC\Desktop\Algoritma\Algoritma\bin\Debug\net5.0\Algoritma.deps.json
+C:\Users\PC\Desktop\Algoritma\Algoritma\bin\Debug\net5.0\Algoritma.runtimeconfig.json
+C:\Users\PC\Desktop\Algoritma\Algoritma\bin\Debug\net5.0\Algoritma.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Algoritma\Algoritma\bin\Debug\net5.0\Algoritma.dll
+C:\Users\PC\Desktop\Algoritma\Algoritma\bin\Debug\net5.0\ref\Algoritma.dll
+C:\Users\PC\Desktop\Algoritma\Algoritma\bin\Debug\net5.0\Algoritma.pdb
+C:\Users\PC\Desktop\Algoritma\Algoritma\obj\Debug\net5.0\Algoritma.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Algoritma\Algoritma\obj\Debug\net5.0\Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Algoritma\Algoritma\obj\Debug\net5.0\Algoritma.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Algoritma\Algoritma\obj\Debug\net5.0\Algoritma.AssemblyInfo.cs
+C:\Users\PC\Desktop\Algoritma\Algoritma\obj\Debug\net5.0\Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Algoritma\Algoritma\obj\Debug\net5.0\Algoritma.dll
+C:\Users\PC\Desktop\Algoritma\Algoritma\obj\Debug\net5.0\ref\Algoritma.dll
+C:\Users\PC\Desktop\Algoritma\Algoritma\obj\Debug\net5.0\Algoritma.pdb
+C:\Users\PC\Desktop\Algoritma\Algoritma\obj\Debug\net5.0\Algoritma.genruntimeconfig.cache
