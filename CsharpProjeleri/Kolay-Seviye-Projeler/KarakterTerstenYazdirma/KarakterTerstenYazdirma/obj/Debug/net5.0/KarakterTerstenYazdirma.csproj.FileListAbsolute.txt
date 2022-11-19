@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\bin\Debug\net5.0\KarakterTerstenYazdirma.exe
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\bin\Debug\net5.0\KarakterTerstenYazdirma.deps.json
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\bin\Debug\net5.0\KarakterTerstenYazdirma.runtimeconfig.json
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\bin\Debug\net5.0\KarakterTerstenYazdirma.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\bin\Debug\net5.0\KarakterTerstenYazdirma.dll
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\bin\Debug\net5.0\ref\KarakterTerstenYazdirma.dll
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\bin\Debug\net5.0\KarakterTerstenYazdirma.pdb
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\obj\Debug\net5.0\KarakterTerstenYazdirma.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\obj\Debug\net5.0\KarakterTerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\obj\Debug\net5.0\KarakterTerstenYazdirma.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\obj\Debug\net5.0\KarakterTerstenYazdirma.AssemblyInfo.cs
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\obj\Debug\net5.0\KarakterTerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\obj\Debug\net5.0\KarakterTerstenYazdirma.dll
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\obj\Debug\net5.0\ref\KarakterTerstenYazdirma.dll
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\obj\Debug\net5.0\KarakterTerstenYazdirma.pdb
+C:\Users\PC\Desktop\KarakterTerstenYazdirma\KarakterTerstenYazdirma\obj\Debug\net5.0\KarakterTerstenYazdirma.genruntimeconfig.cache
