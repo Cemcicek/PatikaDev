@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.exe
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.deps.json
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.runtimeconfig.json
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.runtimeconfig.dev.json
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.dll
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\ref\AlanHesaplama.dll
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\bin\Debug\net5.0\AlanHesaplama.pdb
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.AssemblyInfo.cs
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.dll
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\ref\AlanHesaplama.dll
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.pdb
+C:\Users\PC\Desktop\AlanHesaplama\AlanHesaplama\obj\Debug\net5.0\AlanHesaplama.genruntimeconfig.cache
