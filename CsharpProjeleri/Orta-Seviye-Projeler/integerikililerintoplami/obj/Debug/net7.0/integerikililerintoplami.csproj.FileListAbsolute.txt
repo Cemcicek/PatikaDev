@@ -1,0 +1,15 @@
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/bin/Debug/net7.0/integerikililerintoplami
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/bin/Debug/net7.0/integerikililerintoplami.deps.json
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/bin/Debug/net7.0/integerikililerintoplami.runtimeconfig.json
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/bin/Debug/net7.0/integerikililerintoplami.dll
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/bin/Debug/net7.0/integerikililerintoplami.pdb
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/integerikililerintoplami.csproj.AssemblyReference.cache
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/integerikililerintoplami.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/integerikililerintoplami.AssemblyInfoInputs.cache
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/integerikililerintoplami.AssemblyInfo.cs
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/integerikililerintoplami.csproj.CoreCompileInputs.cache
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/integerikililerintoplami.dll
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/refint/integerikililerintoplami.dll
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/integerikililerintoplami.pdb
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/integerikililerintoplami.genruntimeconfig.cache
+/Users/cemcicek/Documents/GitHub/PatikaDev/CsharpProjeleri/Orta-Seviye-Projeler/integerikililerintoplami/obj/Debug/net7.0/ref/integerikililerintoplami.dll
