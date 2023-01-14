@@ -5,7 +5,7 @@ int[] sayıListesi = new int[sayı];
 
 if (sayı % 2 == 0)
 {
-    Console.WriteLine($"{sayı} tane sayı giriniz.");
+    Console.WriteLine($"{sayı} belirtiğiniz sayıları giriniz.");
     for (int i = 0; i < sayı; i++)
     {
         Console.WriteLine("{0}. sayınız: ", i + 1);
@@ -29,5 +29,5 @@ if (sayı % 2 == 0)
 }
 else
 {
-    Console.WriteLine("\a Hatalı tuşlama! Lütfen çift sayı giriniz.");
+    Console.WriteLine("\a Hata! Lütfen çift sayı giriniz.");
 }
